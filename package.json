@@ -1,0 +1,23 @@
+{
+  "name": "mysql_product_sales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenfanlimc/MySQL_product_sales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenfanlimc/MySQL_product_sales/issues"
+  },
+  "homepage": "https://github.com/chenfanlimc/MySQL_product_sales#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
