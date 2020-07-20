@@ -18,7 +18,7 @@
   "homepage": "https://github.com/chenfanlimc/MySQL_product_sales#readme",
   "dependencies": {
     "inquirer": "^6.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mysql": "^2.15.0"
   }
 }
